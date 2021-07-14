@@ -104,13 +104,16 @@ i{
     /* margin: auto;*/
 }
 
-/* span{
-    color:red;
-}
-
 @media screen and (max-width: 600px) {
     .container{
-        left:21%;
-        width:80%;
+        background-color: #0f0d0d;
+        opacity: 0.5;
+        position: absolute;
+        border-radius: 20px;
+        top: 20%;
+        width: 70%;
+        margin: auto;
+        left: 15%;
+        box-shadow: 1px 1px 20px 6px #aaaaaa;
     }
-} */
+}
